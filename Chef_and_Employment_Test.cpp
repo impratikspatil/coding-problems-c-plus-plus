@@ -29,3 +29,8 @@ int main() {
 }
 
 // the median in an array is the element positioned at the center of the array after sorting it.
+
+
+//to sort vector we can use sort(v.begin(), v.end()); -------ascending order
+
+//to sort vector we can use sort(v.begin(), v.end(), greater<int>()); -------descending order
