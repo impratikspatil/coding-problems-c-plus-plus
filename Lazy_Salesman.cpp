@@ -18,7 +18,7 @@ int main() {
         {
             cin>>arr[j];
         }
-         sort(arr,arr+N);
+         sort(arr,arr+N); //for sorting array
 
          
          for(auto k=N-1;k>=0;k--)
