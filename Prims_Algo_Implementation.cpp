@@ -69,4 +69,6 @@ int main()
         }
         cout << parent[i] << " - " << i << "\n";
     }
+
+
 }
