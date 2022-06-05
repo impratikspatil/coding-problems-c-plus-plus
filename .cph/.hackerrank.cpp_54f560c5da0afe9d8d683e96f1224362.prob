@@ -1,0 +1,1 @@
+{"name":"Local: hackerrank","url":"e:\\coding-problems-in-c-\\hackerrank.cpp","tests":[{"id":1654413918361,"input":"3\n1 3\n1\n3 3\n2 2 2\n4 7\n1 4 3 5","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\coding-problems-in-c-\\hackerrank.cpp","group":"local","local":true}
