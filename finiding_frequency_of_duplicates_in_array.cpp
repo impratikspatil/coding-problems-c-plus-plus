@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//To find frequency of each element in array/vector
+/////To find frequency of each element in array/vector
 
 int main()
 {
