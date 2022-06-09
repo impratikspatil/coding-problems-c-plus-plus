@@ -1,5 +1,5 @@
 
-// to find both numbers are equal or not
+// to find both numbers are equal or not by suing bit manipulation
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -25,3 +25,4 @@ int main()
         cout<<"both a and c are different\n";
     }
 }
+
