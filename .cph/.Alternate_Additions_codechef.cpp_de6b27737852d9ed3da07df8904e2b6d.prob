@@ -1,0 +1,1 @@
+{"name":"Local: Alternate_Additions_codechef","url":"e:\\coding-problems-in-c-\\Alternate_Additions_codechef.cpp","tests":[{"id":1654885422421,"input":"4\n1 2\n3 6\n4 9\n10 20","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\coding-problems-in-c-\\Alternate_Additions_codechef.cpp","group":"local","local":true}
