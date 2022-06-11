@@ -1,0 +1,1 @@
+{"name":"Local: Possible_GCD","url":"e:\\coding-problems-in-c-\\Possible_GCD.cpp","tests":[{"id":1654969238971,"input":"3\n1 2\n12 8\n1 15","output":"1\n3\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\coding-problems-in-c-\\Possible_GCD.cpp","group":"local","local":true}
