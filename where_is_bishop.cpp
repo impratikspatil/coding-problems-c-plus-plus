@@ -1,5 +1,6 @@
 
 //codeforces link - https://codeforces.com/contest/1692/problem/C
+////
 
 #include <bits/stdc++.h>
  
