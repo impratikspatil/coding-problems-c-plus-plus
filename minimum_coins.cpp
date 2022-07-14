@@ -5,9 +5,11 @@ int main()
 {
     int t;
     cin>>t;
+    int X;
 
     while(t--)
     {
-        
+        cin>>X;
+        cout<<(X%10)<<endl;
     }
 }
