@@ -1,5 +1,4 @@
-if(b==true)
-            // {
-            //     cout<<one_num<<" "<<y<<" "<<x<<endl;
-            //     break;
-            // }
+    for(auto i:v)
+          {
+            cout<<i<<" ";
+          }
