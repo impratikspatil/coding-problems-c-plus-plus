@@ -8,7 +8,7 @@ int main()
     long n;
     
 
-
+    
     while(t--)
     {
         cin>>n;
